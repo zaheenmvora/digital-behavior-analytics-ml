@@ -1,11 +1,11 @@
-# 📊 Digital Behavior Analytics & Social Media Detox System
+# Digital Behavior Analytics & Social Media Detox System
 
 A Machine Learning-based digital behavior analysis system that evaluates screen-time patterns, detects potential addiction risk levels, and generates personalized detox recommendations.  
 The project integrates data engineering, predictive modeling, clustering, and Power BI visualization to deliver actionable behavioral insights.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project analyzes digital usage patterns to understand behavioral trends and potential overuse of social media.  
 The system includes:
@@ -22,7 +22,7 @@ This is a behavioral analytics prototype designed for research and educational p
 
 ---
 
-## 🧠 Analytical & ML Approach
+## Analytical & ML Approach
 
 The system follows an end-to-end data science pipeline:
 
@@ -58,7 +58,7 @@ Normalized across dataset for comparability.
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 ### 🔹 Classification Model
 
@@ -86,7 +86,7 @@ Outputs:
 
 ---
 
-## 🎯 Recommendation Engine
+##  Recommendation Engine
 
 A rule-based system generates personalized detox recommendations based on:
 
@@ -102,7 +102,7 @@ Example outputs:
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
 The Power BI dashboard visualizes:
 
@@ -174,7 +174,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🏋️ Running the Pipeline
+## Running the Pipeline
 
 ### 1️⃣ Generate Dataset
 
