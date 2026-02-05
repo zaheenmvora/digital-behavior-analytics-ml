@@ -221,14 +221,14 @@ data/final_dashboard_data.csv
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This system is designed for educational and behavioral analytics purposes only.  
 It is not a medical or psychological diagnostic tool.
 
 ---
 
-## 📜 License
+## License
 
 MIT License
 
@@ -237,3 +237,4 @@ MIT License
 Zaheen M Vora
 
 Computer Engineering Student | Aspiring Data Science and ML Engineer
+
